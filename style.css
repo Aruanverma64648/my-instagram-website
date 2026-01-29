@@ -1,0 +1,27 @@
+body {
+  background: black;
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.profile {
+  margin-top: 100px;
+}
+
+.profile img {
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid red;
+}
+
+a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: red;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
